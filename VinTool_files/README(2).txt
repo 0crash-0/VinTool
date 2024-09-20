@@ -1,0 +1,1 @@
+download this  nmap ,rogekiller cyberchef,f-secure ,glasswire, hashcat,wireshark and put it in this file.
